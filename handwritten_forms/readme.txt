@@ -1,0 +1,1 @@
+This project uses Document AI in GCP Vertex AI to extract Hand Written Forms
